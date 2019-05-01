@@ -66,4 +66,4 @@ Bot.on("guildMemberAdd",member =>{
     channel.send(`Welcome ${member}, read the rules before doing anything you bean`)
 })
 
-Bot.login(process.env.BOT_TOKEN);
+Bot.login(process.env.B0T_T0KEN);
